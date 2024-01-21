@@ -31,3 +31,18 @@ body {
     text-wrap: balance;
   }
 }
+
+.page-h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.page-h2 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.page ul {
+  text-align: center;
+}
+
