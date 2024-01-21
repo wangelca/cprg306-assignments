@@ -7,7 +7,7 @@ import Link from "next/link";
 export default function Page() {
   return (
     <main>
-      <h1 rootSTYLE={{ fontSize: "10em", textAlign: "center" }}>
+      <h1>
         CPRG 306-F: Web Development 2 - Assignments
       </h1>
       <h2>Angelica Pekas - 000906248</h2>
