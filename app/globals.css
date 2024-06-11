@@ -31,3 +31,20 @@ body {
     text-wrap: balance;
   }
 }
+
+/* styles.css */
+
+.button {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.button-active {
+  background-color: darkblue;
+  color: white;
+}
+

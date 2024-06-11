@@ -19,6 +19,9 @@ const Page = () => {
       <p style={{ textAlign: "center", marginTop: "20px" }}>
         <a href="/week-4">WEEK 4 ASSIGNMENT</a>
       </p>
+      <p style={{ textAlign: "center", marginTop: "20px" }}>
+        <a href="/week-5">WEEK 5 ASSIGNMENT</a>
+      </p>
     </div>
   );
 };
