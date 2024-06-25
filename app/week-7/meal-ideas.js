@@ -4,8 +4,6 @@
 
 'use client';
 
-// meal-ideas.js
-
 import React, { useState, useEffect } from 'react';
 
 function MealIdeas({ ingredient, onIngredientSelect }) {
