@@ -1,4 +1,4 @@
-//Week 6 - IMPORTED FROM WEEK 5
+//Week 7 - IMPORTED FROM WEEK 6
 //Angelica Pekas CPRG-306-D
 //000906248
 
